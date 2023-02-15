@@ -12,7 +12,7 @@ public class TestConflict {
         int finalPeremen = 6;
         int vvodPeremen = 0;
 
-        if (finalPeremen == vvodPeremen) return false;
+        if (finalPeremen == vvodPeremen) return;
 
 
     }
